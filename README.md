@@ -93,17 +93,19 @@ Make sure you have the following installed on your machine before running the ap
 git clone https://github.com/yourusername/video-progress-tracker.git
 cd video-progress-tracker
 
-### 2. Backend Setup
+2. Backend Setup
 Navigate to the `server` directory and install dependencies:
 ```bash
 cd server
 npm install
 
-### 3. Frontend Setup
+3. Frontend Setup
 Navigate to the `client` directory and install dependencies:
 ```bash
 cd client
 npm install
+```
+
 
 
 

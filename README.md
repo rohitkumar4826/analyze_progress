@@ -95,16 +95,23 @@ cd video-progress-tracker
 
 2. Backend Setup
 Navigate to the `server` directory and install dependencies:
-```bash
 cd server
 npm install
 
 3. Frontend Setup
 Navigate to the `client` directory and install dependencies:
-```bash
 cd client
 npm install
 ```
+
+### Start the Backend and Frontend server respectively:
+```bash
+node server.js or nodemon server.js
+npm start
+npm run dev
+
+
+
 
 
 

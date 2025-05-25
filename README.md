@@ -90,7 +90,7 @@ Make sure you have the following installed on your machine before running the ap
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/video-progress-tracker.git
+git clone https://git@github.com:rohitkumar4826/analyze_progress.git
 cd video-progress-tracker
 
 2. Backend Setup

@@ -106,9 +106,9 @@ npm install
 
 ### Start the Backend and Frontend server respectively:
 ```bash
-node server.js or nodemon server.js
-npm start
-npm run dev
+Backend: node server.js or nodemon server.js
+Frontend: npm start
+Frontend Build: npm run dev
 ```
 ## Demo Images
 ![anal1](https://github.com/user-attachments/assets/a0391a4a-b793-4911-94da-ac908d03c3d8)

@@ -91,7 +91,7 @@ Make sure you have the following installed on your machine before running the ap
 
 ```bash
 git clone https://git@github.com:rohitkumar4826/analyze_progress.git
-cd video-progress-tracker
+cd practice-prog
 
 2. Backend Setup
 Navigate to the `server` directory and install dependencies:
